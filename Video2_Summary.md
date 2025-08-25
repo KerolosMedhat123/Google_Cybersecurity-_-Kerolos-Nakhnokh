@@ -201,7 +201,7 @@
 
 ---
 
-## 6. NIST Cybersecurity Framework (CSF)
+## 10. NIST Cybersecurity Framework (CSF)
 - **إطار عالمي** بيوفر معايير وأفضل الممارسات لإدارة المخاطر.  
 - يتكون من 5 وظائف أساسية:
 
@@ -222,7 +222,7 @@
 
 ---
 
-## 7. OWASP Security Principles (مبادئ الأمان)
+## 11. OWASP Security Principles (مبادئ الأمان)
 1. **Minimize Attack Surface:** تقليل نقاط الدخول.  
    - مثال: تعطيل خواص غير ضرورية في التطبيقات.  
 
